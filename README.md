@@ -1,10 +1,10 @@
 
 # Como Automatizar a rolagem de 1 hora no freebitco.in
 
-*Freebitcoin é um site de faucet/cassino como uso da cryptomoeda bitcoin, atualmente é um dos que são bastantes confiavéis, nele você pode ganhar X quantias de bitcoin acada 1 hora fazendo a rolagem, e eu criei um método para automatizar isso veja abaixo.*
+*Freebitcoin é um site de faucet/cassino de bitcoin, atualmente é um dos que são bastantes confiavéis, nele você pode ganhar X quantias de bitcoin acada 1 hora fazendo a rolagem, e eu criei um método para automatizar isso veja abaixo.*
 
 _script de auto rolagem no freebitcoin para os usuário com ou sem captcha.
-Aos que têm captcha ele seleciona a opção "Play Without Captcha" do site, sendo assim você vai perder X quantia de rewards e na príxima auto rolagem perdera X+1 e assim por diante, eu recomendo fazer cálculos de perdas antes de usá-lo.
+Aos que têm captcha ele seleciona a opção "Play Without Captcha" do site, sendo assim você vai perder X quantia de rewards e na próxima auto rolagem perdera X+1 e assim por diante, eu recomendo fazer cálculos de perdas antes de usá-lo.
 caso você tenha uma conta sem captcha basta instalar o script_
 
 # Como instalar e usá-lo?
