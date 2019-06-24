@@ -10,6 +10,6 @@ caso você tenha uma conta sem captcha basta instalar o script_
 # Como instalar e usá-lo?
 1° Logue-se em sua conta no freebitcoin, caso não tenha uma [cadastre](https://freebitco.in/?r=21365648).  
 2° Entre na loja de Extensões de seu navegador e procure a extensão "Tampermokey" e instale-a;  
-3° Copie ou baixe script nome aqui como "freebtc-auto-roll.js";  
+3° Copie ou baixe script nome aqui como "autoroll-freebtc-2.js";  
 4° vá no site do freebitco.in, esteja em sua conta na página padrão de rolagem e click na extensão do *tampermoney*, vá em adicionar script, vai abrir uma janela no navegador lá cole o script que você copiou.  
 5° salve com CTRL+S e atualize a página do freebitco.in, aguarde 10 segundos que seu roll sera feito.  
