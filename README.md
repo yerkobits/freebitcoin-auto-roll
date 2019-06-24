@@ -13,3 +13,5 @@ caso você tenha uma conta sem captcha basta instalar o script_
 3° Copie ou baixe script nome aqui como "autoroll-freebtc-2.js";  
 4° vá no site do freebitco.in, esteja em sua conta na página padrão de rolagem e click na extensão do *tampermoney*, vá em adicionar script, vai abrir uma janela no navegador lá cole o script que você copiou.  
 5° salve com CTRL+S e atualize a página do freebitco.in, aguarde 10 segundos que seu roll sera feito.  
+
+My Wallet for donations: 1Mu2tJRYZqgZs7YGE9Ejj5PqeAg3T7YGRn
